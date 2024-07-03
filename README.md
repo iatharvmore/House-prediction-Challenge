@@ -20,7 +20,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/house-prediction-challenge.git
+git clone https://github.com/iatharvmore/house-prediction-challenge.git
 cd house-prediction-challenge
 Download the dataset from the provided Kaggle competition page and place it in the data/ directory.
 
